@@ -1,1 +1,2 @@
 # WeekTwo
+Class exercise
